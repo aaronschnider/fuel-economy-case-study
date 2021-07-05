@@ -831,158 +831,158 @@ SUBARU Legacy,2.5,4,Man-6,4WD,Gasoline,small car,6.0,17.0,24.0,20.0,6,no
 SUBARU Legacy,2.5,4,Auto-S5,4WD,Gasoline,small car,6.0,18.0,24.0,20.0,6,no
 SUBARU Legacy,2.5,4,Man-5,4WD,Gasoline,small car,6.0,19.0,25.0,21.0,6,no
 SUBARU Legacy,2.5,4,Man-5,4WD,Gasoline,small car,6.0,20.0,27.0,22.0,6,no
-SUBARU Legacy,2.5,4,Auto-S4,4WD,Gasoline,small car,6.0,,,,6,no
-SUBARU Legacy,3.0,6,Auto-S5,4WD,Gasoline,small car,6.0,,,,6,no
-SUBARU Outback Sport,2.5,4,Man-6,4WD,Gasoline,station wagon,6.0,,,,5,no
-SUBARU Outback Sport,2.5,4,Man-5,4WD,Gasoline,station wagon,6.0,,,,6,no
-SUBARU Outback Sport,2.5,4,Auto-S4,4WD,Gasoline,station wagon,6.0,,,,6,no
-SUBARU Outback Sport,2.5,4,Man-5,4WD,Gasoline,station wagon,6.0,,,,6,no
-SUBARU Outback Sport,2.5,4,Auto-S4,4WD,Gasoline,station wagon,6.0,,,,6,no
-SUBARU Outback Wagon,2.5,4,Man-5,4WD,Gasoline,SUV,9.5,,,,6,yes
-SUBARU Outback Wagon,2.5,4,Auto-S4,4WD,Gasoline,SUV,9.5,,,,6,yes
-SUBARU Outback Wagon,2.5,4,Auto-S5,4WD,Gasoline,SUV,6.0,,,,6,no
-SUBARU Outback Wagon,2.5,4,Man-5,4WD,Gasoline,SUV,6.0,,,,6,no
-SUBARU Outback Wagon,2.5,4,Man-5,4WD,Gasoline,SUV,6.0,,,,6,no
-SUBARU Outback Wagon,2.5,4,Auto-S4,4WD,Gasoline,SUV,6.0,,,,6,no
-SUBARU Outback Wagon,3.0,6,Auto-S5,4WD,Gasoline,SUV,6.0,,,,6,no
-SUBARU Tribeca,3.6,6,Auto-S5,4WD,Gasoline,SUV,6.0,,,,5,no
-SUZUKI Grand Vitara,2.7,6,Man-5,2WD,Gasoline,SUV,6.0,,,,5,no
-SUZUKI Grand Vitara,2.7,6,Auto-L5,2WD,Gasoline,SUV,6.0,,,,5,no
-SUZUKI Grand Vitara,2.7,6,Man-5,4WD,Gasoline,SUV,6.0,,,,5,no
-SUZUKI Grand Vitara,2.7,6,Auto-L5,4WD,Gasoline,SUV,6.0,,,,5,no
-SUZUKI SX4,2.0,4,Man-5,2WD,Gasoline,small car,6.0,,,,7,yes
-SUZUKI SX4,2.0,4,Auto-L4,2WD,Gasoline,small car,6.0,,,,8,yes
-SUZUKI SX4,2.0,4,Man-5,4WD,Gasoline,station wagon,6.0,,,,7,yes
-SUZUKI SX4,2.0,4,Auto-L4,4WD,Gasoline,station wagon,6.0,,,,7,yes
-SUZUKI SX4,2.0,4,Man-5,2WD,Gasoline,station wagon,6.0,,,,7,yes
-SUZUKI SX4,2.0,4,Auto-L4,2WD,Gasoline,station wagon,6.0,,,,7,yes
-TOYOTA 4Runner,4.7,8,Auto-L5,2WD,Gasoline,SUV,7.0,,,,4,no
-TOYOTA 4Runner,4.7,8,Auto-L5,4WD,Gasoline,SUV,7.0,,,,3,no
-TOYOTA 4Runner,4.0,6,Auto-L5,2WD,Gasoline,SUV,6.0,,,,5,no
-TOYOTA 4Runner,4.0,6,Auto-L5,4WD,Gasoline,SUV,6.0,,,,4,no
-TOYOTA Avalon,3.5,6,Auto-S6,2WD,Gasoline,large car,7.0,,,,6,yes
-TOYOTA Camry,2.4,4,Auto-L5,2WD,Gasoline,midsize car,9.5,,,,7,yes
-TOYOTA Camry,2.4,4,Man-5,2WD,Gasoline,midsize car,7.0,,,,7,yes
-TOYOTA Camry,2.4,4,Auto-L5,2WD,Gasoline,midsize car,7.0,,,,7,yes
-TOYOTA Camry,3.5,6,Auto-S6,2WD,Gasoline,midsize car,7.0,,,,6,yes
-TOYOTA Camry Hybrid,2.4,4,Auto-AV,2WD,Gasoline,midsize car,9.5,,,,9,yes
-TOYOTA Corolla,1.8,4,Auto-L4,2WD,Gasoline,small car,7.0,,,,8,yes
-TOYOTA Corolla,1.8,4,Man-5,2WD,Gasoline,small car,7.0,,,,9,yes
-TOYOTA FJ Cruiser,4.0,6,Auto-L5,2WD,Gasoline,SUV,6.0,,,,5,no
-TOYOTA FJ Cruiser,4.0,6,Man-6,4WD,Gasoline,SUV,6.0,,,,4,no
-TOYOTA FJ Cruiser,4.0,6,Auto-L5,4WD,Gasoline,SUV,6.0,,,,4,no
-TOYOTA Highlander,3.5,6,Auto-S5,2WD,Gasoline,SUV,7.0,,,,6,yes
-TOYOTA Highlander,3.5,6,Auto-S5,4WD,Gasoline,SUV,7.0,,,,5,no
-TOYOTA Highlander Hybrid,3.3,6,Auto-AV,4WD,Gasoline,SUV,9.0,,,,8,yes
-TOYOTA Land Cruiser,5.7,8,Auto-S6,4WD,Gasoline,SUV,7.0,,,,3,no
-TOYOTA Matrix,1.8,4,Auto-L4,2WD,Gasoline,station wagon,7.0,,,,8,yes
-TOYOTA Matrix,1.8,4,Man-5,2WD,Gasoline,station wagon,7.0,,,,8,yes
-TOYOTA Prius,1.5,4,Auto-AV,2WD,Gasoline,midsize car,9.5,,,,10,yes
-TOYOTA RAV4,2.4,4,Auto-L4,2WD,Gasoline,SUV,7.0,,,,7,yes
-TOYOTA RAV4,2.4,4,Auto-L4,4WD,Gasoline,SUV,7.0,,,,6,yes
-TOYOTA RAV4,3.5,6,Auto-L5,2WD,Gasoline,SUV,7.0,,,,6,yes
-TOYOTA RAV4,3.5,6,Auto-L5,4WD,Gasoline,SUV,7.0,,,,6,yes
-TOYOTA Scion TC,2.4,4,Man-5,2WD,Gasoline,small car,7.0,,,,7,yes
-TOYOTA Scion TC,2.4,4,Auto-L4,2WD,Gasoline,small car,7.0,,,,7,yes
-TOYOTA Scion XB,2.4,4,Auto-S4,2WD,Gasoline,station wagon,7.0,,,,7,yes
-TOYOTA Scion XB,2.4,4,Man-5,2WD,Gasoline,station wagon,7.0,,,,7,yes
-TOYOTA Scion XD,1.8,4,Auto-L4,2WD,Gasoline,small car,6.0,,,,8,yes
-TOYOTA Scion XD,1.8,4,Man-5,2WD,Gasoline,small car,6.0,,,,8,yes
-TOYOTA Sequoia,4.7,8,Auto-S5,2WD,Gasoline,SUV,7.0,,,,3,no
-TOYOTA Sequoia,4.7,8,Auto-S5,4WD,Gasoline,SUV,7.0,,,,2,no
-TOYOTA Sequoia,5.7,8,Auto-S6,2WD,Gasoline,SUV,7.0,,,,3,no
-TOYOTA Sequoia,5.7,8,Auto-S6,4WD,Gasoline,SUV,7.0,,,,3,no
-TOYOTA Sienna,3.5,6,Auto-L5,2WD,Gasoline,minivan,7.0,,,,5,no
-TOYOTA Sienna,3.5,6,Auto-L5,4WD,Gasoline,minivan,7.0,,,,5,no
-TOYOTA Solara,2.4,4,Man-5,2WD,Gasoline,small car,7.0,,,,7,yes
-TOYOTA Solara,2.4,4,Auto-S5,2WD,Gasoline,small car,7.0,,,,7,yes
-TOYOTA Solara,3.3,6,Auto-S5,2WD,Gasoline,small car,7.0,,,,6,yes
-TOYOTA Solara Convertible,3.3,6,Auto-S5,2WD,Gasoline,small car,7.0,,,,6,yes
-TOYOTA Tacoma,2.7,4,Auto-L4,2WD,Gasoline,pickup,6.0,,,,6,no
-TOYOTA Tacoma,2.7,4,Man-5,2WD,Gasoline,pickup,6.0,,,,6,no
-TOYOTA Tacoma,2.7,4,Man-5,4WD,Gasoline,pickup,6.0,,,,5,no
-TOYOTA Tacoma,4.0,6,Man-6,2WD,Gasoline,pickup,6.0,,,,4,no
-TOYOTA Tacoma,4.0,6,Auto-L5,2WD,Gasoline,pickup,6.0,,,,5,no
-TOYOTA Tacoma,4.0,6,Man-6,4WD,Gasoline,pickup,6.0,,,,4,no
-TOYOTA Tacoma,4.0,6,Auto-L5,4WD,Gasoline,pickup,6.0,,,,5,no
-TOYOTA Tundra,4.7,8,Auto-S5,2WD,Gasoline,pickup,7.0,,,,3,no
-TOYOTA Tundra,4.7,8,Auto-S5,4WD,Gasoline,pickup,7.0,,,,3,no
-TOYOTA Tundra,5.7,8,Auto-S6,2WD,Gasoline,pickup,7.0,,,,4,no
-TOYOTA Tundra,5.7,8,Auto-S6,4WD,Gasoline,pickup,7.0,,,,2,no
-TOYOTA Tundra,4.0,6,Auto-S5,2WD,Gasoline,pickup,6.0,,,,4,no
-TOYOTA Yaris,1.5,4,Auto-L4,2WD,Gasoline,small car,7.0,,,,9,yes
-TOYOTA Yaris,1.5,4,Man-5,2WD,Gasoline,small car,7.0,,,,9,yes
-VOLKSWAGEN Eos,2.0,4,Man-6,2WD,Gasoline,small car,7.0,,,,7,yes
-VOLKSWAGEN Eos,2.0,4,Auto-S6,2WD,Gasoline,small car,7.0,,,,7,yes
-VOLKSWAGEN Eos,3.2,6,Auto-S6,2WD,Gasoline,small car,6.0,,,,6,no
-VOLKSWAGEN GTI,2.0,4,Man-6,2WD,Gasoline,small car,7.0,,,,7,yes
-VOLKSWAGEN GTI,2.0,4,Auto-S6,2WD,Gasoline,small car,7.0,,,,7,yes
-VOLKSWAGEN Jetta,2.5,5,Man-5,2WD,Gasoline,small car,9.5,,,,7,yes
-VOLKSWAGEN Jetta,2.5,5,Auto-S6,2WD,Gasoline,small car,9.5,,,,7,yes
-VOLKSWAGEN Jetta,2.0,4,Man-6,2WD,Gasoline,small car,7.0,,,,7,yes
-VOLKSWAGEN Jetta,2.0,4,Auto-S6,2WD,Gasoline,small car,7.0,,,,7,yes
-VOLKSWAGEN Jetta,2.5,5,Man-5,2WD,Gasoline,small car,7.0,,,,7,yes
-VOLKSWAGEN Jetta,2.5,5,Auto-S6,2WD,Gasoline,small car,7.0,,,,7,yes
-VOLKSWAGEN Jetta Wagon,2.5,5,Man-5,2WD,Gasoline,station wagon,9.5,,,,7,yes
-VOLKSWAGEN Jetta Wagon,2.5,5,Auto-S6,2WD,Gasoline,station wagon,9.5,,,,7,yes
-VOLKSWAGEN Jetta Wagon,2.5,5,Man-5,2WD,Gasoline,station wagon,7.0,,,,7,yes
-VOLKSWAGEN Jetta Wagon,2.5,5,Auto-S6,2WD,Gasoline,station wagon,7.0,,,,7,yes
-VOLKSWAGEN New Beetle,2.5,5,Man-5,2WD,Gasoline,small car,9.5,,,,7,yes
-VOLKSWAGEN New Beetle,2.5,5,Auto-S6,2WD,Gasoline,small car,9.5,,,,7,yes
-VOLKSWAGEN New Beetle,2.5,5,Man-5,2WD,Gasoline,small car,7.0,,,,7,yes
-VOLKSWAGEN New Beetle,2.5,5,Auto-S6,2WD,Gasoline,small car,7.0,,,,7,yes
-VOLKSWAGEN New Beetle Convertible,2.5,5,Auto-S6,2WD,Gasoline,small car,9.5,,,,7,yes
-VOLKSWAGEN New Beetle Convertible,2.5,5,Man-5,2WD,Gasoline,small car,9.5,,,,7,yes
-VOLKSWAGEN New Beetle Convertible,2.5,5,Auto-S6,2WD,Gasoline,small car,7.0,,,,7,yes
-VOLKSWAGEN New Beetle Convertible,2.5,5,Man-5,2WD,Gasoline,small car,7.0,,,,7,yes
-VOLKSWAGEN Passat,2.0,4,Auto-S6,2WD,Gasoline,midsize car,7.0,,,,6,yes
-VOLKSWAGEN Passat,2.0,4,Man-6,2WD,Gasoline,midsize car,7.0,,,,7,yes
-VOLKSWAGEN Passat,3.6,6,Auto-S6,4WD,Gasoline,midsize car,6.0,,,,5,no
-VOLKSWAGEN Passat,3.6,6,Auto-S6,2WD,Gasoline,midsize car,6.0,,,,6,no
-VOLKSWAGEN Passat Wagon,2.0,4,Auto-S6,2WD,Gasoline,station wagon,7.0,,,,7,yes
-VOLKSWAGEN Passat Wagon,2.0,4,Man-6,2WD,Gasoline,station wagon,7.0,,,,7,yes
-VOLKSWAGEN Passat Wagon,3.6,6,Auto-S6,4WD,Gasoline,station wagon,6.0,,,,5,no
-VOLKSWAGEN R32,3.2,6,Auto-S6,4WD,Gasoline,small car,6.0,,,,6,no
-VOLKSWAGEN Rabbit,2.5,5,Auto-S6,2WD,Gasoline,small car,9.5,,,,7,yes
-VOLKSWAGEN Rabbit,2.5,5,Man-5,2WD,Gasoline,small car,9.5,,,,7,yes
-VOLKSWAGEN Rabbit,2.5,5,Auto-S6,2WD,Gasoline,small car,7.0,,,,7,yes
-VOLKSWAGEN Rabbit,2.5,5,Man-5,2WD,Gasoline,small car,7.0,,,,7,yes
-VOLKSWAGEN Touareg,3.6,6,Auto-S6,4WD,Gasoline,SUV,6.0,,,,4,no
-VOLKSWAGEN Touareg,4.2,8,Auto-S6,4WD,Gasoline,SUV,6.0,,,,2,no
-VOLVO C30,2.4,5,Auto-S5,2WD,Gasoline,small car,7.0,,,,7,yes
-VOLVO C30,2.4,5,Man-5,2WD,Gasoline,small car,7.0,,,,7,yes
-VOLVO C30,2.5,5,Auto-S5,2WD,Gasoline,small car,7.0,,,,6,yes
-VOLVO C30,2.5,5,Man-6,2WD,Gasoline,small car,7.0,,,,7,yes
-VOLVO C70 Convertible,2.5,5,Auto-S5,2WD,Gasoline,small car,7.0,,,,6,yes
-VOLVO C70 Convertible,2.5,5,Man-6,2WD,Gasoline,small car,7.0,,,,6,yes
-VOLVO S40,2.4,5,Auto-S5,2WD,Gasoline,small car,9.5,,,,7,yes
-VOLVO S40,2.4,5,Auto-S5,2WD,Gasoline,small car,7.0,,,,7,yes
-VOLVO S40,2.4,5,Man-5,2WD,Gasoline,small car,7.0,,,,7,yes
-VOLVO S40,2.5,5,Man-6,4WD,Gasoline,small car,7.0,,,,6,yes
-VOLVO S40,2.5,5,Auto-S5,4WD,Gasoline,small car,7.0,,,,6,yes
-VOLVO S40,2.5,5,Auto-S5,2WD,Gasoline,small car,7.0,,,,6,yes
-VOLVO S40,2.5,5,Man-6,2WD,Gasoline,small car,7.0,,,,7,yes
-VOLVO S60,2.5,5,Auto-L5,4WD,Gasoline,small car,7.0,,,,6,yes
-VOLVO S60,2.5,5,Auto-S5,4WD,Gasoline,small car,7.0,,,,6,yes
-VOLVO S60,2.5,5,Auto-L5,2WD,Gasoline,small car,7.0,,,,6,yes
-VOLVO S60,2.5,5,Auto-S5,2WD,Gasoline,small car,7.0,,,,6,yes
-VOLVO S60,2.4,5,Auto-S5,2WD,Gasoline,small car,6.0,,,,6,no
-VOLVO S60,2.4,5,Man-6,2WD,Gasoline,small car,6.0,,,,6,no
-VOLVO S80,3.0,6,Auto-S6,4WD,Gasoline,midsize car,7.0,,,,5,no
-VOLVO S80,3.2,6,Auto-S6,2WD,Gasoline,midsize car,7.0,,,,5,no
-VOLVO S80,3.2,6,Auto-S6,4WD,Gasoline,midsize car,7.0,,,,5,no
-VOLVO S80,4.4,8,Auto-S6,4WD,Gasoline,midsize car,7.0,,,,5,no
-VOLVO V50,2.4,5,Auto-S5,2WD,Gasoline,station wagon,9.5,,,,7,yes
-VOLVO V50,2.4,5,Auto-S5,2WD,Gasoline,station wagon,7.0,,,,7,yes
-VOLVO V50,2.4,5,Man-5,2WD,Gasoline,station wagon,7.0,,,,7,yes
-VOLVO V50,2.5,5,Man-6,4WD,Gasoline,station wagon,7.0,,,,6,yes
-VOLVO V50,2.5,5,Auto-S5,4WD,Gasoline,station wagon,7.0,,,,6,yes
-VOLVO V50,2.5,5,Auto-S5,2WD,Gasoline,station wagon,7.0,,,,6,yes
-VOLVO V50,2.5,5,Man-6,2WD,Gasoline,station wagon,7.0,,,,7,yes
-VOLVO V70,3.2,6,Auto-S6,2WD,Gasoline,station wagon,7.0,,,,5,no
-VOLVO XC 70,3.2,6,Auto-S6,4WD,Gasoline,SUV,7.0,,,,4,no
-VOLVO XC 90,3.2,6,Auto-S6,2WD,Gasoline,SUV,7.0,,,,4,no
-VOLVO XC 90,3.2,6,Auto-S6,4WD,Gasoline,SUV,7.0,,,,4,no
-VOLVO XC 90,4.4,8,Auto-S6,4WD,Gasoline,SUV,7.0,,,,3,no
-MERCEDES-BENZ C300,3.0,6,Auto-L7,2WD,ethanol,small car,6.0,,,,7,no
-MERCEDES-BENZ C300,3.0,6,Auto-L7,2WD,gas,small car,4.0,,,,6,no
+SUBARU Legacy,2.5,4,Auto-S4,4WD,Gasoline,small car,6.0,20.0,27.0,22.0,6,no
+SUBARU Legacy,3.0,6,Auto-S5,4WD,Gasoline,small car,6.0,17.0,24.0,20.0,6,no
+SUBARU Outback Sport,2.5,4,Man-6,4WD,Gasoline,station wagon,6.0,17.0,23.0,19.0,5,no
+SUBARU Outback Sport,2.5,4,Man-5,4WD,Gasoline,station wagon,6.0,19.0,25.0,21.0,6,no
+SUBARU Outback Sport,2.5,4,Auto-S4,4WD,Gasoline,station wagon,6.0,20.0,25.0,22.0,6,no
+SUBARU Outback Sport,2.5,4,Man-5,4WD,Gasoline,station wagon,6.0,20.0,27.0,22.0,6,no
+SUBARU Outback Sport,2.5,4,Auto-S4,4WD,Gasoline,station wagon,6.0,20.0,27.0,22.0,6,no
+SUBARU Outback Wagon,2.5,4,Man-5,4WD,Gasoline,SUV,9.5,19.0,26.0,22.0,6,yes
+SUBARU Outback Wagon,2.5,4,Auto-S4,4WD,Gasoline,SUV,9.5,20.0,26.0,22.0,6,yes
+SUBARU Outback Wagon,2.5,4,Auto-S5,4WD,Gasoline,SUV,6.0,18.0,24.0,20.0,6,no
+SUBARU Outback Wagon,2.5,4,Man-5,4WD,Gasoline,SUV,6.0,18.0,24.0,20.0,6,no
+SUBARU Outback Wagon,2.5,4,Man-5,4WD,Gasoline,SUV,6.0,19.0,26.0,22.0,6,no
+SUBARU Outback Wagon,2.5,4,Auto-S4,4WD,Gasoline,SUV,6.0,20.0,26.0,22.0,6,no
+SUBARU Outback Wagon,3.0,6,Auto-S5,4WD,Gasoline,SUV,6.0,17.0,24.0,20.0,6,no
+SUBARU Tribeca,3.6,6,Auto-S5,4WD,Gasoline,SUV,6.0,16.0,21.0,18.0,5,no
+SUZUKI Grand Vitara,2.7,6,Man-5,2WD,Gasoline,SUV,6.0,16.0,22.0,18.0,5,no
+SUZUKI Grand Vitara,2.7,6,Auto-L5,2WD,Gasoline,SUV,6.0,17.0,22.0,19.0,5,no
+SUZUKI Grand Vitara,2.7,6,Man-5,4WD,Gasoline,SUV,6.0,16.0,21.0,18.0,5,no
+SUZUKI Grand Vitara,2.7,6,Auto-L5,4WD,Gasoline,SUV,6.0,17.0,21.0,19.0,5,no
+SUZUKI SX4,2.0,4,Man-5,2WD,Gasoline,small car,6.0,22.0,30.0,25.0,7,yes
+SUZUKI SX4,2.0,4,Auto-L4,2WD,Gasoline,small car,6.0,23.0,31.0,26.0,8,yes
+SUZUKI SX4,2.0,4,Man-5,4WD,Gasoline,station wagon,6.0,21.0,28.0,24.0,7,yes
+SUZUKI SX4,2.0,4,Auto-L4,4WD,Gasoline,station wagon,6.0,21.0,28.0,24.0,7,yes
+SUZUKI SX4,2.0,4,Man-5,2WD,Gasoline,station wagon,6.0,22.0,30.0,25.0,7,yes
+SUZUKI SX4,2.0,4,Auto-L4,2WD,Gasoline,station wagon,6.0,22.0,30.0,25.0,7,yes
+TOYOTA 4Runner,4.7,8,Auto-L5,2WD,Gasoline,SUV,7.0,15.0,19.0,17.0,4,no
+TOYOTA 4Runner,4.7,8,Auto-L5,4WD,Gasoline,SUV,7.0,14.0,17.0,15.0,3,no
+TOYOTA 4Runner,4.0,6,Auto-L5,2WD,Gasoline,SUV,6.0,16.0,21.0,18.0,5,no
+TOYOTA 4Runner,4.0,6,Auto-L5,4WD,Gasoline,SUV,6.0,16.0,20.0,17.0,4,no
+TOYOTA Avalon,3.5,6,Auto-S6,2WD,Gasoline,large car,7.0,19.0,28.0,22.0,6,yes
+TOYOTA Camry,2.4,4,Auto-L5,2WD,Gasoline,midsize car,9.5,21.0,31.0,25.0,7,yes
+TOYOTA Camry,2.4,4,Man-5,2WD,Gasoline,midsize car,7.0,21.0,31.0,25.0,7,yes
+TOYOTA Camry,2.4,4,Auto-L5,2WD,Gasoline,midsize car,7.0,21.0,31.0,25.0,7,yes
+TOYOTA Camry,3.5,6,Auto-S6,2WD,Gasoline,midsize car,7.0,19.0,28.0,22.0,6,yes
+TOYOTA Camry Hybrid,2.4,4,Auto-AV,2WD,Gasoline,midsize car,9.5,33.0,34.0,34.0,9,yes
+TOYOTA Corolla,1.8,4,Auto-L4,2WD,Gasoline,small car,7.0,26.0,35.0,29.0,8,yes
+TOYOTA Corolla,1.8,4,Man-5,2WD,Gasoline,small car,7.0,28.0,37.0,31.0,9,yes
+TOYOTA FJ Cruiser,4.0,6,Auto-L5,2WD,Gasoline,SUV,6.0,16.0,20.0,18.0,5,no
+TOYOTA FJ Cruiser,4.0,6,Man-6,4WD,Gasoline,SUV,6.0,15.0,18.0,16.0,4,no
+TOYOTA FJ Cruiser,4.0,6,Auto-L5,4WD,Gasoline,SUV,6.0,16.0,20.0,17.0,4,no
+TOYOTA Highlander,3.5,6,Auto-S5,2WD,Gasoline,SUV,7.0,18.0,24.0,20.0,6,yes
+TOYOTA Highlander,3.5,6,Auto-S5,4WD,Gasoline,SUV,7.0,17.0,23.0,19.0,5,no
+TOYOTA Highlander Hybrid,3.3,6,Auto-AV,4WD,Gasoline,SUV,9.0,27.0,25.0,26.0,8,yes
+TOYOTA Land Cruiser,5.7,8,Auto-S6,4WD,Gasoline,SUV,7.0,13.0,18.0,15.0,3,no
+TOYOTA Matrix,1.8,4,Auto-L4,2WD,Gasoline,station wagon,7.0,25.0,31.0,27.0,8,yes
+TOYOTA Matrix,1.8,4,Man-5,2WD,Gasoline,station wagon,7.0,26.0,33.0,29.0,8,yes
+TOYOTA Prius,1.5,4,Auto-AV,2WD,Gasoline,midsize car,9.5,48.0,45.0,46.0,10,yes
+TOYOTA RAV4,2.4,4,Auto-L4,2WD,Gasoline,SUV,7.0,21.0,27.0,24.0,7,yes
+TOYOTA RAV4,2.4,4,Auto-L4,4WD,Gasoline,SUV,7.0,20.0,25.0,22.0,6,yes
+TOYOTA RAV4,3.5,6,Auto-L5,2WD,Gasoline,SUV,7.0,19.0,27.0,22.0,6,yes
+TOYOTA RAV4,3.5,6,Auto-L5,4WD,Gasoline,SUV,7.0,19.0,26.0,21.0,6,yes
+TOYOTA Scion TC,2.4,4,Man-5,2WD,Gasoline,small car,7.0,20.0,27.0,23.0,7,yes
+TOYOTA Scion TC,2.4,4,Auto-L4,2WD,Gasoline,small car,7.0,21.0,29.0,24.0,7,yes
+TOYOTA Scion XB,2.4,4,Auto-S4,2WD,Gasoline,station wagon,7.0,22.0,28.0,24.0,7,yes
+TOYOTA Scion XB,2.4,4,Man-5,2WD,Gasoline,station wagon,7.0,22.0,28.0,24.0,7,yes
+TOYOTA Scion XD,1.8,4,Auto-L4,2WD,Gasoline,small car,6.0,26.0,32.0,28.0,8,yes
+TOYOTA Scion XD,1.8,4,Man-5,2WD,Gasoline,small car,6.0,27.0,33.0,29.0,8,yes
+TOYOTA Sequoia,4.7,8,Auto-S5,2WD,Gasoline,SUV,7.0,14.0,17.0,15.0,3,no
+TOYOTA Sequoia,4.7,8,Auto-S5,4WD,Gasoline,SUV,7.0,13.0,16.0,14.0,2,no
+TOYOTA Sequoia,5.7,8,Auto-S6,2WD,Gasoline,SUV,7.0,14.0,19.0,15.0,3,no
+TOYOTA Sequoia,5.7,8,Auto-S6,4WD,Gasoline,SUV,7.0,13.0,18.0,15.0,3,no
+TOYOTA Sienna,3.5,6,Auto-L5,2WD,Gasoline,minivan,7.0,17.0,23.0,19.0,5,no
+TOYOTA Sienna,3.5,6,Auto-L5,4WD,Gasoline,minivan,7.0,16.0,21.0,18.0,5,no
+TOYOTA Solara,2.4,4,Man-5,2WD,Gasoline,small car,7.0,21.0,31.0,25.0,7,yes
+TOYOTA Solara,2.4,4,Auto-S5,2WD,Gasoline,small car,7.0,22.0,31.0,25.0,7,yes
+TOYOTA Solara,3.3,6,Auto-S5,2WD,Gasoline,small car,7.0,18.0,27.0,21.0,6,yes
+TOYOTA Solara Convertible,3.3,6,Auto-S5,2WD,Gasoline,small car,7.0,18.0,26.0,21.0,6,yes
+TOYOTA Tacoma,2.7,4,Auto-L4,2WD,Gasoline,pickup,6.0,19.0,25.0,21.0,6,no
+TOYOTA Tacoma,2.7,4,Man-5,2WD,Gasoline,pickup,6.0,20.0,25.0,22.0,6,no
+TOYOTA Tacoma,2.7,4,Man-5,4WD,Gasoline,pickup,6.0,17.0,22.0,19.0,5,no
+TOYOTA Tacoma,4.0,6,Man-6,2WD,Gasoline,pickup,6.0,15.0,19.0,17.0,4,no
+TOYOTA Tacoma,4.0,6,Auto-L5,2WD,Gasoline,pickup,6.0,16.0,20.0,18.0,5,no
+TOYOTA Tacoma,4.0,6,Man-6,4WD,Gasoline,pickup,6.0,15.0,18.0,16.0,4,no
+TOYOTA Tacoma,4.0,6,Auto-L5,4WD,Gasoline,pickup,6.0,16.0,20.0,18.0,5,no
+TOYOTA Tundra,4.7,8,Auto-S5,2WD,Gasoline,pickup,7.0,14.0,17.0,15.0,3,no
+TOYOTA Tundra,4.7,8,Auto-S5,4WD,Gasoline,pickup,7.0,13.0,16.0,15.0,3,no
+TOYOTA Tundra,5.7,8,Auto-S6,2WD,Gasoline,pickup,7.0,14.0,18.0,16.0,4,no
+TOYOTA Tundra,5.7,8,Auto-S6,4WD,Gasoline,pickup,7.0,13.0,17.0,14.0,2,no
+TOYOTA Tundra,4.0,6,Auto-S5,2WD,Gasoline,pickup,6.0,15.0,19.0,17.0,4,no
+TOYOTA Yaris,1.5,4,Auto-L4,2WD,Gasoline,small car,7.0,29.0,35.0,31.0,9,yes
+TOYOTA Yaris,1.5,4,Man-5,2WD,Gasoline,small car,7.0,29.0,36.0,32.0,9,yes
+VOLKSWAGEN Eos,2.0,4,Man-6,2WD,Gasoline,small car,7.0,21.0,29.0,24.0,7,yes
+VOLKSWAGEN Eos,2.0,4,Auto-S6,2WD,Gasoline,small car,7.0,21.0,30.0,24.0,7,yes
+VOLKSWAGEN Eos,3.2,6,Auto-S6,2WD,Gasoline,small car,6.0,19.0,26.0,22.0,6,no
+VOLKSWAGEN GTI,2.0,4,Man-6,2WD,Gasoline,small car,7.0,21.0,29.0,24.0,7,yes
+VOLKSWAGEN GTI,2.0,4,Auto-S6,2WD,Gasoline,small car,7.0,22.0,29.0,25.0,7,yes
+VOLKSWAGEN Jetta,2.5,5,Man-5,2WD,Gasoline,small car,9.5,21.0,29.0,24.0,7,yes
+VOLKSWAGEN Jetta,2.5,5,Auto-S6,2WD,Gasoline,small car,9.5,21.0,29.0,24.0,7,yes
+VOLKSWAGEN Jetta,2.0,4,Man-6,2WD,Gasoline,small car,7.0,21.0,29.0,24.0,7,yes
+VOLKSWAGEN Jetta,2.0,4,Auto-S6,2WD,Gasoline,small car,7.0,22.0,29.0,25.0,7,yes
+VOLKSWAGEN Jetta,2.5,5,Man-5,2WD,Gasoline,small car,7.0,21.0,29.0,24.0,7,yes
+VOLKSWAGEN Jetta,2.5,5,Auto-S6,2WD,Gasoline,small car,7.0,21.0,29.0,24.0,7,yes
+VOLKSWAGEN Jetta Wagon,2.5,5,Man-5,2WD,Gasoline,station wagon,9.5,21.0,29.0,24.0,7,yes
+VOLKSWAGEN Jetta Wagon,2.5,5,Auto-S6,2WD,Gasoline,station wagon,9.5,21.0,29.0,24.0,7,yes
+VOLKSWAGEN Jetta Wagon,2.5,5,Man-5,2WD,Gasoline,station wagon,7.0,21.0,29.0,24.0,7,yes
+VOLKSWAGEN Jetta Wagon,2.5,5,Auto-S6,2WD,Gasoline,station wagon,7.0,21.0,29.0,24.0,7,yes
+VOLKSWAGEN New Beetle,2.5,5,Man-5,2WD,Gasoline,small car,9.5,20.0,28.0,23.0,7,yes
+VOLKSWAGEN New Beetle,2.5,5,Auto-S6,2WD,Gasoline,small car,9.5,20.0,29.0,23.0,7,yes
+VOLKSWAGEN New Beetle,2.5,5,Man-5,2WD,Gasoline,small car,7.0,20.0,28.0,23.0,7,yes
+VOLKSWAGEN New Beetle,2.5,5,Auto-S6,2WD,Gasoline,small car,7.0,20.0,29.0,23.0,7,yes
+VOLKSWAGEN New Beetle Convertible,2.5,5,Auto-S6,2WD,Gasoline,small car,9.5,20.0,28.0,23.0,7,yes
+VOLKSWAGEN New Beetle Convertible,2.5,5,Man-5,2WD,Gasoline,small car,9.5,20.0,28.0,23.0,7,yes
+VOLKSWAGEN New Beetle Convertible,2.5,5,Auto-S6,2WD,Gasoline,small car,7.0,20.0,28.0,23.0,7,yes
+VOLKSWAGEN New Beetle Convertible,2.5,5,Man-5,2WD,Gasoline,small car,7.0,20.0,28.0,23.0,7,yes
+VOLKSWAGEN Passat,2.0,4,Auto-S6,2WD,Gasoline,midsize car,7.0,19.0,28.0,22.0,6,yes
+VOLKSWAGEN Passat,2.0,4,Man-6,2WD,Gasoline,midsize car,7.0,21.0,29.0,24.0,7,yes
+VOLKSWAGEN Passat,3.6,6,Auto-S6,4WD,Gasoline,midsize car,6.0,16.0,24.0,19.0,5,no
+VOLKSWAGEN Passat,3.6,6,Auto-S6,2WD,Gasoline,midsize car,6.0,17.0,26.0,20.0,6,no
+VOLKSWAGEN Passat Wagon,2.0,4,Auto-S6,2WD,Gasoline,station wagon,7.0,20.0,28.0,23.0,7,yes
+VOLKSWAGEN Passat Wagon,2.0,4,Man-6,2WD,Gasoline,station wagon,7.0,21.0,29.0,24.0,7,yes
+VOLKSWAGEN Passat Wagon,3.6,6,Auto-S6,4WD,Gasoline,station wagon,6.0,16.0,24.0,19.0,5,no
+VOLKSWAGEN R32,3.2,6,Auto-S6,4WD,Gasoline,small car,6.0,18.0,23.0,20.0,6,no
+VOLKSWAGEN Rabbit,2.5,5,Auto-S6,2WD,Gasoline,small car,9.5,21.0,29.0,24.0,7,yes
+VOLKSWAGEN Rabbit,2.5,5,Man-5,2WD,Gasoline,small car,9.5,22.0,29.0,24.0,7,yes
+VOLKSWAGEN Rabbit,2.5,5,Auto-S6,2WD,Gasoline,small car,7.0,21.0,29.0,24.0,7,yes
+VOLKSWAGEN Rabbit,2.5,5,Man-5,2WD,Gasoline,small car,7.0,22.0,29.0,24.0,7,yes
+VOLKSWAGEN Touareg,3.6,6,Auto-S6,4WD,Gasoline,SUV,6.0,14.0,20.0,16.0,4,no
+VOLKSWAGEN Touareg,4.2,8,Auto-S6,4WD,Gasoline,SUV,6.0,12.0,17.0,14.0,2,no
+VOLVO C30,2.4,5,Auto-S5,2WD,Gasoline,small car,7.0,20.0,28.0,23.0,7,yes
+VOLVO C30,2.4,5,Man-5,2WD,Gasoline,small car,7.0,20.0,28.0,23.0,7,yes
+VOLVO C30,2.5,5,Auto-S5,2WD,Gasoline,small car,7.0,19.0,27.0,22.0,6,yes
+VOLVO C30,2.5,5,Man-6,2WD,Gasoline,small car,7.0,19.0,28.0,23.0,7,yes
+VOLVO C70 Convertible,2.5,5,Auto-S5,2WD,Gasoline,small car,7.0,18.0,26.0,21.0,6,yes
+VOLVO C70 Convertible,2.5,5,Man-6,2WD,Gasoline,small car,7.0,18.0,27.0,21.0,6,yes
+VOLVO S40,2.4,5,Auto-S5,2WD,Gasoline,small car,9.5,20.0,28.0,23.0,7,yes
+VOLVO S40,2.4,5,Auto-S5,2WD,Gasoline,small car,7.0,20.0,28.0,23.0,7,yes
+VOLVO S40,2.4,5,Man-5,2WD,Gasoline,small car,7.0,20.0,28.0,23.0,7,yes
+VOLVO S40,2.5,5,Man-6,4WD,Gasoline,small car,7.0,17.0,25.0,20.0,6,yes
+VOLVO S40,2.5,5,Auto-S5,4WD,Gasoline,small car,7.0,18.0,26.0,21.0,6,yes
+VOLVO S40,2.5,5,Auto-S5,2WD,Gasoline,small car,7.0,19.0,27.0,22.0,6,yes
+VOLVO S40,2.5,5,Man-6,2WD,Gasoline,small car,7.0,19.0,28.0,23.0,7,yes
+VOLVO S60,2.5,5,Auto-L5,4WD,Gasoline,small car,7.0,17.0,26.0,21.0,6,yes
+VOLVO S60,2.5,5,Auto-S5,4WD,Gasoline,small car,7.0,18.0,26.0,21.0,6,yes
+VOLVO S60,2.5,5,Auto-L5,2WD,Gasoline,small car,7.0,19.0,27.0,22.0,6,yes
+VOLVO S60,2.5,5,Auto-S5,2WD,Gasoline,small car,7.0,19.0,27.0,22.0,6,yes
+VOLVO S60,2.4,5,Auto-S5,2WD,Gasoline,small car,6.0,18.0,26.0,21.0,6,no
+VOLVO S60,2.4,5,Man-6,2WD,Gasoline,small car,6.0,18.0,26.0,21.0,6,no
+VOLVO S80,3.0,6,Auto-S6,4WD,Gasoline,midsize car,7.0,15.0,23.0,18.0,5,no
+VOLVO S80,3.2,6,Auto-S6,2WD,Gasoline,midsize car,7.0,16.0,24.0,19.0,5,no
+VOLVO S80,3.2,6,Auto-S6,4WD,Gasoline,midsize car,7.0,16.0,24.0,19.0,5,no
+VOLVO S80,4.4,8,Auto-S6,4WD,Gasoline,midsize car,7.0,15.0,23.0,18.0,5,no
+VOLVO V50,2.4,5,Auto-S5,2WD,Gasoline,station wagon,9.5,20.0,28.0,23.0,7,yes
+VOLVO V50,2.4,5,Auto-S5,2WD,Gasoline,station wagon,7.0,20.0,28.0,23.0,7,yes
+VOLVO V50,2.4,5,Man-5,2WD,Gasoline,station wagon,7.0,20.0,28.0,23.0,7,yes
+VOLVO V50,2.5,5,Man-6,4WD,Gasoline,station wagon,7.0,17.0,25.0,20.0,6,yes
+VOLVO V50,2.5,5,Auto-S5,4WD,Gasoline,station wagon,7.0,18.0,26.0,21.0,6,yes
+VOLVO V50,2.5,5,Auto-S5,2WD,Gasoline,station wagon,7.0,19.0,27.0,22.0,6,yes
+VOLVO V50,2.5,5,Man-6,2WD,Gasoline,station wagon,7.0,19.0,28.0,23.0,7,yes
+VOLVO V70,3.2,6,Auto-S6,2WD,Gasoline,station wagon,7.0,16.0,24.0,19.0,5,no
+VOLVO XC 70,3.2,6,Auto-S6,4WD,Gasoline,SUV,7.0,15.0,22.0,17.0,4,no
+VOLVO XC 90,3.2,6,Auto-S6,2WD,Gasoline,SUV,7.0,14.0,20.0,16.0,4,no
+VOLVO XC 90,3.2,6,Auto-S6,4WD,Gasoline,SUV,7.0,14.0,20.0,16.0,4,no
+VOLVO XC 90,4.4,8,Auto-S6,4WD,Gasoline,SUV,7.0,13.0,19.0,15.0,3,no
+MERCEDES-BENZ C300,3.0,6,Auto-L7,2WD,ethanol,small car,6.0,13.0,19.0,15.0,7,no
+MERCEDES-BENZ C300,3.0,6,Auto-L7,2WD,gas,small car,4.0,18.0,25.0,21.0,6,no
